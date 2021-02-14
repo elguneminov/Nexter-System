@@ -1,3 +1,3 @@
-# Nexter-System
+# Nexter System
 
 ## The ultimate personal freedom
